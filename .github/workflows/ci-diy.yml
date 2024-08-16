@@ -143,4 +143,4 @@ jobs:
             ${{ env.REDIS_DIST }}-cygwin.zip
             ${{ env.REDIS_DIST }}-cygwin-with-Service.zip
             ${{ env.REDIS_DIST }}-msys2.zip
-            ${{ env.REDIS_DIST }}-msys2-with-Service.zip
+            ${{ env.REDIS_DIST }}-msys2-with-Service.zip 
